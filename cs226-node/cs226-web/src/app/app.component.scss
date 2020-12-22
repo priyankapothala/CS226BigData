@@ -1,0 +1,36 @@
+@import 'theme';
+
+.body-content {
+  background: $primary-background-color;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+
+  .content {
+    flex: 1;
+    height: 100vh;
+    background-image: url("/assets/bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #efefef;
+    background-position: top center;
+    overflow-y: auto;
+    overflow-x: hidden;
+
+    .content-wrapper {
+      min-height: calc(100vh - 106px);
+    }
+  }
+
+  .radio-button-group{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 40px 0px;
+    .radio-container{
+      &+.radio-container{
+        margin-left: 30px;
+      }
+    }
+  }
+}

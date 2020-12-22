@@ -1,0 +1,45 @@
+$primary-text-color: #1C0A36;
+$secondary-text-color: #949EAF;
+$primary-color:#1B2445;
+$light-primary-color:#4D9EFE;
+$dark-primary-color:#005bae;
+$highlight-color:#4D9EFE;
+$accent-color:#FF1A1A;
+$light-accent-color:#FF7D7F;
+$header-height: 64px;
+$divider-color:#EBEBEB;
+$application-font:'Open Sans';
+$radio-input-size:15px;
+$primary-background-color:#FFFFFF;
+$secondary-background-color:#F7F9FA;
+$disabled-text-color:#949EAF;
+$black: #000;
+$white: #fff;
+$active:#29CB97;
+$away:#FE5B30;
+$warn:#EF950E;
+$offline:#949EAF;
+$risk-high:#F04B35;
+$risk-low:#288AED;
+$risk-medium:#FFD101;
+$login-color:#2B7DE0;
+
+.productive {
+  color: $active
+}
+
+.unproductive {
+  color: $away
+}
+
+.passive {
+  color: $warn
+}
+
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  -ms-border-radius: $radius;
+  border-radius: $radius;
+}

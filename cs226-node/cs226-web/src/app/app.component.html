@@ -1,0 +1,55 @@
+<div class="body-content">
+  <div class="content">
+    <div class="content-wrapper">
+      <section id="main">
+        <div class="section-header">Quality of Life Ranking</div>
+        <div class="main-container container">
+          <div class="row">
+            <div class="col col-12">
+            <div class="radio-button-group">
+              <div
+                class="radio-container"
+                *ngFor="let item of criteriaList; let i = index"
+              >
+                <input
+                  type="radio"
+                  [(ngModel)]="params.criteria"
+                  name="criteria"
+                  id="{{item.value}}"
+                  [value]="item.value"
+                  [routerLink]="[]"
+                  [queryParams]="{criteria:item.value}" queryParamsHandling="merge"
+                />
+                <div class="radio-btn"></div>
+                <label for="{{item.value}}">{{item.name}}</label>
+              </div>
+            </div>
+          </div>
+          <div class="col col-12">
+            <div class="data-table">
+              <div class="table-body">
+                <table class="sticky">
+                  <thead>
+                    <tr>
+                      <th>City</th>
+                      <th>State</th>
+                      <th>Quality of Life</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr *ngFor="let item of records">
+                      <td>{{ item.City }}</td>
+                      <td>{{ item.State }}</td>
+                      <td>{{ item.quality_of_life }}</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>

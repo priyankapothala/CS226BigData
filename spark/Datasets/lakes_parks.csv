@@ -1,0 +1,942 @@
+City,State,Code,lakes_count,parks_count
+Novato,California,CA,8,136
+Delray Beach,Florida,FL,4,63
+Rockville,Maryland,MD,2,122
+Jersey City,New Jersey,NJ,6,50
+Old Bridge township,New Jersey,NJ,8,26
+Cary town,North Carolina,NC,1,64
+Bensalem township,Pennsylvania,PA,7,125
+Alhambra,California,CA,2,79
+Palm Beach Gardens,Florida,FL,6,66
+Sarasota,Florida,FL,1,70
+Gulfport,Mississippi,MS,7,30
+Cincinnati,Ohio,OH,5,31
+South Jordan,Utah,UT,0,86
+Montebello,California,CA,7,121
+Boca Raton,Florida,FL,0,103
+Fort Lauderdale,Florida,FL,4,137
+Iowa City,Iowa,IA,8,80
+Passaic,New Jersey,NJ,1,106
+League City,Texas,TX,1,17
+Bloomington City township,Illinois,IL,0,48
+Capital township,Illinois,IL,8,23
+Bowie,Maryland,MD,9,138
+Wichita Falls,Texas,TX,3,132
+Goodyear,Arizona,AZ,7,137
+Conway,Arkansas,AR,6,100
+Fairfield town,Connecticut,CT,0,23
+Coconut Creek,Florida,FL,9,17
+Concord township,Indiana,IN,5,30
+Greece town,New York,NY,4,88
+Bismarck,North Dakota,ND,6,101
+Brentwood,California,CA,4,101
+High Point,North Carolina,NC,6,17
+Eau Claire,Wisconsin,WI,6,44
+Bentonville,Arkansas,AR,6,48
+Lakeland,Florida,FL,2,107
+Wellington,Florida,FL,1,109
+Penn township,Indiana,IN,3,124
+Shawnee,Kansas,KS,9,54
+Peabody,Massachusetts,MA,0,126
+Lancaster,Pennsylvania,PA,1,133
+Gilbert town,Arizona,AZ,1,28
+Citrus Heights,California,CA,6,95
+Wheeling township,Illinois,IL,0,87
+Ames,Iowa,IA,4,114
+Babylon town,New York,NY,4,16
+Eugene,Oregon,OR,1,126
+Fort Smith,Arkansas,AR,0,134
+Alpharetta,Georgia,GA,9,21
+Oak Lawn,Illinois,IL,5,71
+Orland township,Illinois,IL,8,57
+Nashua,New Hampshire,NH,3,144
+Concord,North Carolina,NC,2,44
+Lehi,Utah,UT,8,58
+Salinas,California,CA,3,42
+Santa Ana,California,CA,2,112
+Manchester town,Connecticut,CT,6,30
+Omaha,Nebraska,NE,9,109
+East Orange,New Jersey,NJ,7,46
+North Richland Hills,Texas,TX,0,133
+Union town,New York,NY,0,146
+Pawtucket,Rhode Island,RI,0,92
+Folsom,California,CA,0,32
+Hamden town,Connecticut,CT,5,54
+Savannah,Georgia,GA,2,39
+Eden Prairie,Minnesota,MN,0,27
+New Brunswick,New Jersey,NJ,0,52
+Burlington,North Carolina,NC,1,86
+Stillwater,Oklahoma,OK,2,91
+Lynchburg,Virginia,VA,4,38
+Baldwin Park,California,CA,3,128
+Irvine,California,CA,1,131
+San Diego,California,CA,0,34
+Evanston,Illinois,IL,3,134
+Kentwood,Michigan,MI,6,79
+Gresham,Oregon,OR,4,61
+Collierville town,Tennessee,TN,9,128
+Herriman,Utah,UT,4,22
+Chandler,Arizona,AZ,6,19
+Anderson,Indiana,IN,1,148
+Watsonville,California,CA,6,47
+Westminster,Colorado,CO,1,124
+Pinellas Park,Florida,FL,1,59
+Naperville township,Illinois,IL,3,30
+St. Charles,Missouri,MO,7,72
+Paterson,New Jersey,NJ,6,30
+Newark,Ohio,OH,8,98
+Grapevine,Texas,TX,1,65
+McKinney,Texas,TX,2,116
+Elk Grove township,Illinois,IL,1,108
+Libertyville township,Illinois,IL,1,147
+Largo,Florida,FL,6,144
+Cedar Rapids,Iowa,IA,9,117
+Kansas City,Kansas,KS,0,138
+Taylor,Michigan,MI,3,92
+Plymouth,Minnesota,MN,6,118
+Perth Amboy,New Jersey,NJ,8,101
+Vineland,New Jersey,NJ,3,105
+West New York town,New Jersey,NJ,7,95
+New Rochelle,New York,NY,1,45
+Plain township,Ohio,OH,1,24
+Brownsville,Texas,TX,8,128
+Sandy,Utah,UT,2,29
+Pueblo,Colorado,CO,1,136
+New Britain,Connecticut,CT,4,93
+Jacksonville,Florida,FL,6,125
+Albany,Georgia,GA,7,58
+Tinley Park,Illinois,IL,7,26
+Middletown township,New Jersey,NJ,6,21
+Franklin township,New Jersey,NJ,4,82
+Mission,Texas,TX,4,85
+Renton,Washington,WA,0,35
+Ontario,California,CA,9,42
+Westminster,California,CA,7,80
+Hanover township,Illinois,IL,4,122
+Union City,New Jersey,NJ,6,111
+Hamburg town,New York,NY,6,34
+Harrisonburg,Virginia,VA,1,77
+Berkeley,California,CA,3,78
+Cambridge,Massachusetts,MA,9,83
+South Fulton,Georgia,GA,5,120
+Shelby charter township,Michigan,MI,8,145
+Fairfield,California,CA,4,53
+Weston,Florida,FL,4,32
+Davenport,Iowa,IA,8,124
+Southampton town,New York,NY,8,14
+Everett,Washington,WA,7,131
+Casper,Wyoming,WY,4,31
+Lexington-Fayette urban county,Kentucky,KY,7,79
+Davis,California,CA,2,84
+Santa Maria,California,CA,7,112
+Normal town,Illinois,IL,4,54
+Broken Arrow,Oklahoma,OK,9,54
+Clarksville,Tennessee,TN,1,16
+Doral,Florida,FL,0,125
+Pembroke Pines,Florida,FL,9,11
+Carmel,Indiana,IN,7,89
+Perry township,Indiana,IN,0,119
+New Bedford,Massachusetts,MA,8,118
+North Hempstead town,New York,NY,6,49
+West Chester township,Ohio,OH,5,75
+Lodi,California,CA,6,20
+Perris,California,CA,6,18
+Loveland,Colorado,CO,2,89
+Pompano Beach,Florida,FL,4,105
+Lyons township,Illinois,IL,4,10
+Corvallis,Oregon,OR,0,43
+Bristol township,Pennsylvania,PA,5,65
+Rock Hill,South Carolina,SC,4,101
+Du Page township,Illinois,IL,4,57
+Wichita,Kansas,KS,8,70
+Grand Forks,North Dakota,ND,4,131
+Oshkosh,Wisconsin,WI,9,110
+Bellflower,California,CA,5,135
+Redwood City,California,CA,1,119
+Yorba Linda,California,CA,4,145
+Oswego township,Illinois,IL,0,85
+Chicopee,Massachusetts,MA,5,106
+Lawrence,Massachusetts,MA,1,137
+Woodbury,Minnesota,MN,7,95
+Fayetteville,North Carolina,NC,7,60
+Cleveland,Ohio,OH,2,30
+Upper Darby township,Pennsylvania,PA,1,35
+Wayne township,Indiana,IN,1,137
+Tucson,Arizona,AZ,7,10
+El Monte,California,CA,0,97
+St. Clair Shores,Michigan,MI,3,104
+Grand Prairie,Texas,TX,2,36
+West Palm Beach,Florida,FL,0,103
+Fort Wayne,Indiana,IN,2,64
+Hamilton township,New Jersey,NJ,3,141
+Conroe,Texas,TX,7,39
+Dallas,Texas,TX,8,21
+Auburn,Washington,WA,4,23
+Indio,California,CA,5,23
+St. Cloud,Florida,FL,6,61
+Boston,Massachusetts,MA,4,108
+Clinton charter township,Michigan,MI,2,45
+Independence,Missouri,MO,5,94
+Stratford town,Connecticut,CT,9,55
+Bolingbrook,Illinois,IL,3,41
+Fall Creek township,Indiana,IN,3,24
+Fairfield township,Indiana,IN,3,59
+Miami,Florida,FL,3,117
+Virginia Beach,Virginia,VA,1,111
+Santa Rosa,California,CA,5,137
+Bristol,Connecticut,CT,3,60
+Brookhaven,Georgia,GA,2,58
+Oak Park township,Illinois,IL,2,38
+Lakeville,Minnesota,MN,4,111
+Pasadena,Texas,TX,7,129
+Burbank,California,CA,8,137
+Waterloo,Iowa,IA,5,143
+Allen,Texas,TX,0,19
+Missouri City,Texas,TX,7,81
+Roanoke,Virginia,VA,6,53
+Gardena,California,CA,9,92
+Lancaster,California,CA,0,128
+Bristol town,Connecticut,CT,6,148
+Frederick,Maryland,MD,5,53
+Youngstown,Ohio,OH,5,40
+Charleston,South Carolina,SC,1,52
+Elk Grove,California,CA,3,122
+Palmdale,California,CA,9,62
+Bonita Springs,Florida,FL,0,30
+Johns Creek,Georgia,GA,1,65
+Augusta-Richmond County consolidated government,Georgia,GA,9,50
+Vernon township,Illinois,IL,8,73
+Grafton township,Illinois,IL,1,114
+Kalamazoo,Michigan,MI,5,77
+Decatur,Alabama,AL,1,75
+Lynwood,California,CA,3,16
+Murrieta,California,CA,4,35
+San Clemente,California,CA,5,95
+San Marcos,California,CA,1,87
+Lacey,Washington,WA,3,103
+Colton,California,CA,8,134
+Sunrise,Florida,FL,0,13
+Yonkers,New York,NY,4,107
+Dothan,Alabama,AL,2,108
+Rocklin,California,CA,5,146
+Lockport township,Illinois,IL,1,89
+Mishawaka,Indiana,IN,8,112
+Great Falls,Montana,MT,3,27
+Greenburgh town,New York,NY,1,10
+Lubbock,Texas,TX,6,43
+Surprise,Arizona,AZ,8,121
+Carlsbad,California,CA,0,39
+Texas City,Texas,TX,9,32
+Redmond,Washington,WA,3,129
+Santa Clara,California,CA,8,101
+Rochester,Minnesota,MN,1,57
+Bend,Oregon,OR,7,32
+Abilene,Texas,TX,0,91
+Corona,California,CA,1,115
+Pomona,California,CA,6,90
+Champaign City township,Illinois,IL,1,10
+Niles township,Illinois,IL,0,109
+Gloucester township,New Jersey,NJ,1,84
+Portland,Oregon,OR,4,16
+Georgetown charter township,Michigan,MI,3,34
+Alexandria,Virginia,VA,2,23
+Pasco,Washington,WA,3,29
+Tacoma,Washington,WA,8,70
+Tracy,California,CA,3,50
+Greenwich town,Connecticut,CT,2,142
+Port St. Lucie,Florida,FL,1,10
+Leesburg town,Virginia,VA,4,137
+Denton,Texas,TX,6,26
+Kennewick,Washington,WA,9,51
+Temecula,California,CA,6,16
+Boulder,Colorado,CO,3,106
+Longmont,Colorado,CO,9,125
+Coral Springs,Florida,FL,3,29
+Buffalo,New York,NY,2,132
+Glendale,California,CA,0,59
+Milford,Connecticut,CT,3,58
+Franklin township,Indiana,IN,8,72
+Methuen Town,Massachusetts,MA,0,138
+Vallejo,California,CA,3,55
+Hartford town,Connecticut,CT,4,89
+Utica,New York,NY,1,106
+Clarkstown town,New York,NY,7,53
+Hillsboro,Oregon,OR,8,81
+Salt Lake City,Utah,UT,0,44
+Avondale,Arizona,AZ,7,16
+Glendale,Arizona,AZ,0,82
+Hesperia,California,CA,5,47
+Mountain View,California,CA,3,99
+Rosemead,California,CA,4,16
+Jupiter town,Florida,FL,2,25
+Marietta,Georgia,GA,7,62
+Wheatland township,Illinois,IL,3,41
+Union township,New Jersey,NJ,3,137
+Lawton,Oklahoma,OK,1,32
+Tigard,Oregon,OR,3,125
+Allentown,Pennsylvania,PA,1,44
+Pharr,Texas,TX,8,133
+Buckeye,Arizona,AZ,0,58
+Antioch,California,CA,6,135
+Lenexa,Kansas,KS,3,30
+Jacksonville,North Carolina,NC,4,90
+Seattle,Washington,WA,1,41
+Yuma,Arizona,AZ,8,84
+Norwalk,California,CA,8,26
+Paramount,California,CA,7,62
+Lewisville,Texas,TX,7,118
+Round Rock,Texas,TX,9,23
+Melbourne,Florida,FL,0,74
+Olathe,Kansas,KS,1,149
+Gastonia,North Carolina,NC,3,145
+Wylie,Texas,TX,2,149
+Downers Grove township,Illinois,IL,7,87
+Albany,New York,NY,4,67
+South San Francisco,California,CA,7,40
+Walnut Creek,California,CA,7,119
+Gainesville,Florida,FL,6,86
+Jeffersonville township,Indiana,IN,1,98
+Owensboro,Kentucky,KY,3,54
+Houston,Texas,TX,9,134
+Daly City,California,CA,5,131
+Manteca,California,CA,9,36
+Bowling Green,Kentucky,KY,3,76
+Plainfield,New Jersey,NJ,1,61
+Avon township,Illinois,IL,3,139
+Danbury,Connecticut,CT,5,31
+New Britain town,Connecticut,CT,8,41
+Palos township,Illinois,IL,1,81
+Brooklyn Park,Minnesota,MN,4,72
+Carson City,Nevada,NV,0,16
+Millcreek township,Pennsylvania,PA,0,61
+Victoria,Texas,TX,0,40
+Hampton,Virginia,VA,2,28
+Livermore,California,CA,2,107
+Sioux City,Iowa,IA,2,96
+Winston-Salem,North Carolina,NC,1,84
+Scranton,Pennsylvania,PA,7,28
+Spokane,Washington,WA,8,27
+Indianapolis,Indiana,IN,3,67
+Pontiac,Michigan,MI,1,107
+Southfield,Michigan,MI,1,116
+Clay town,New York,NY,4,44
+Galveston,Texas,TX,4,78
+Killeen,Texas,TX,2,41
+Leander,Texas,TX,2,107
+Porterville,California,CA,7,35
+Rancho Cucamonga,California,CA,1,143
+Deltona,Florida,FL,1,53
+Pike township,Indiana,IN,5,82
+Lafayette,Louisiana,LA,2,108
+Bellevue,Washington,WA,8,149
+Green Bay,Wisconsin,WI,6,23
+West Bloomfield charter township,Michigan,MI,1,133
+Kent,Washington,WA,8,120
+Maricopa,Arizona,AZ,9,134
+Huntington Park,California,CA,8,121
+Turlock,California,CA,9,31
+Springfield,Illinois,IL,7,86
+Chapel Hill town,North Carolina,NC,0,132
+Federal Way,Washington,WA,5,59
+Cupertino,California,CA,1,130
+Lake Forest,California,CA,6,31
+San Rafael,California,CA,1,16
+Bradenton,Florida,FL,2,140
+Manhattan,Kansas,KS,0,31
+Brookline town,Massachusetts,MA,3,23
+Novi,Michigan,MI,0,148
+Westland,Michigan,MI,5,123
+Longview,Texas,TX,0,52
+Waterbury town,Connecticut,CT,3,38
+Tallahassee,Florida,FL,6,81
+New Albany township,Indiana,IN,3,66
+Durham,North Carolina,NC,5,63
+Milpitas,California,CA,3,127
+Napa,California,CA,7,10
+Coeur d'Alene,Idaho,ID,1,91
+Washington township,Indiana,IN,2,137
+Beaumont,California,CA,3,132
+West Hartford town,Connecticut,CT,1,119
+San Marcos,Texas,TX,6,17
+Tuscaloosa,Alabama,AL,9,58
+Jonesboro,Arkansas,AR,1,109
+Washington,District of Columbia,DC,1,149
+Bloom township,Illinois,IL,1,110
+Gary,Indiana,IN,8,49
+Vacaville,California,CA,7,22
+Wayne township,Illinois,IL,5,21
+Jackson township,New Jersey,NJ,3,18
+Joplin,Missouri,MO,3,123
+Sterling Heights,Michigan,MI,7,67
+Euless,Texas,TX,5,110
+Lakewood,California,CA,3,112
+Newport Beach,California,CA,3,81
+Medford,Massachusetts,MA,1,88
+Rio Rancho,New Mexico,NM,1,70
+Colonie town,New York,NY,1,18
+West Valley City,Utah,UT,3,15
+Compton,California,CA,7,71
+Schaumburg township,Illinois,IL,5,137
+Duluth,Minnesota,MN,9,38
+Escondido,California,CA,6,112
+Miami Beach,Florida,FL,7,67
+Camden,New Jersey,NJ,9,40
+Oceanside,California,CA,0,50
+Roswell,Georgia,GA,2,121
+Fargo,North Dakota,ND,2,31
+Chula Vista,California,CA,1,60
+Champaign,Illinois,IL,9,117
+Des Plaines,Illinois,IL,4,50
+Evansville,Indiana,IN,4,20
+Bayonne,New Jersey,NJ,9,25
+Hawthorne,California,CA,8,53
+Hayward,California,CA,4,24
+Grand Island,Nebraska,NE,0,56
+Manchester,New Hampshire,NH,8,22
+Hempstead,New York,NY,2,31
+Reading,Pennsylvania,PA,9,101
+Arvada,Colorado,CO,2,127
+Asheville,North Carolina,NC,1,65
+Lauderhill,Florida,FL,5,51
+Ocala,Florida,FL,6,128
+Berwyn township,Illinois,IL,6,135
+Macomb township,Michigan,MI,2,139
+Smithtown town,New York,NY,3,135
+West Jordan,Utah,UT,8,103
+Yakima,Washington,WA,6,144
+Apopka,Florida,FL,5,24
+Quincy,Massachusetts,MA,7,65
+O'Fallon,Missouri,MO,2,82
+Lakewood township,New Jersey,NJ,7,68
+Schenectady,New York,NY,4,23
+Huntersville town,North Carolina,NC,8,137
+Georgetown,Texas,TX,4,17
+Fullerton,California,CA,0,55
+Laguna Niguel,California,CA,3,37
+Frankfort township,Illinois,IL,7,46
+Brockton,Massachusetts,MA,3,101
+North Las Vegas,Nevada,NV,3,23
+Montgomery,Alabama,AL,5,40
+Dublin,California,CA,2,45
+Richmond,California,CA,7,55
+Livonia,Michigan,MI,2,76
+Santa Fe,New Mexico,NM,3,33
+Kannapolis,North Carolina,NC,2,81
+Providence,Rhode Island,RI,5,121
+Warwick,Rhode Island,RI,0,10
+Port Arthur,Texas,TX,7,140
+Arcadia,California,CA,9,91
+Mission Viejo,California,CA,8,125
+Pico Rivera,California,CA,2,99
+Apple Valley,Minnesota,MN,5,55
+Phoenix,Arizona,AZ,0,112
+Medford,Oregon,OR,0,29
+San Francisco,California,CA,0,141
+Baton Rouge,Louisiana,LA,9,40
+Orange,California,CA,6,119
+San Buenaventura (Ventura),California,CA,1,146
+Clay township,Indiana,IN,0,108
+Lansing,Michigan,MI,3,52
+Austin,Texas,TX,4,52
+Madison,Wisconsin,WI,8,52
+Gilroy,California,CA,2,68
+Sanford,Florida,FL,1,125
+Roseville,California,CA,4,35
+Battle Creek,Michigan,MI,7,21
+Detroit,Michigan,MI,4,44
+Wayne township,New Jersey,NJ,5,132
+Santa Monica,California,CA,0,112
+Sioux Falls,South Dakota,SD,4,43
+Tamarac,Florida,FL,3,73
+Baytown,Texas,TX,1,63
+Irving,Texas,TX,2,40
+Odessa,Texas,TX,0,42
+Casa Grande,Arizona,AZ,4,43
+Los Angeles,California,CA,3,73
+New Haven,Connecticut,CT,0,91
+Bridgeport town,Connecticut,CT,4,43
+Arlington Heights,Illinois,IL,4,147
+Anchorage municipality,Alaska,AK,8,107
+Fayetteville,Arkansas,AR,1,122
+Madera,California,CA,6,31
+Atlanta,Georgia,GA,7,91
+Lawrence township,Indiana,IN,3,57
+Lynn,Massachusetts,MA,5,10
+Wyoming,Michigan,MI,7,18
+Lakewood,Washington,WA,5,141
+San Jose,California,CA,2,10
+Orlando,Florida,FL,9,116
+Algonquin township,Illinois,IL,5,79
+Portage township,Indiana,IN,5,140
+Sparks,Nevada,NV,9,129
+North Charleston,South Carolina,SC,4,55
+Hoover,Alabama,AL,0,112
+Redlands,California,CA,7,149
+Southaven,Mississippi,MS,6,14
+Florissant,Missouri,MO,8,66
+Washington township,Ohio,OH,5,129
+Oklahoma City,Oklahoma,OK,4,134
+Little Rock,Arkansas,AR,6,30
+Joliet,Illinois,IL,1,145
+South Bend,Indiana,IN,5,39
+Rochester Hills,Michigan,MI,7,144
+Frisco,Texas,TX,5,80
+Sugar Land,Texas,TX,7,39
+Vancouver,Washington,WA,3,110
+Green township,Ohio,OH,2,54
+Bethlehem,Pennsylvania,PA,1,124
+Northfield township,Illinois,IL,5,134
+Peoria City township,Illinois,IL,5,106
+Bloomington,Indiana,IN,4,122
+Brick township,New Jersey,NJ,8,141
+Mount Pleasant town,South Carolina,SC,9,111
+Torrance,California,CA,7,103
+Meridian,Idaho,ID,8,73
+Twin Falls,Idaho,ID,9,132
+Springfield,Oregon,OR,2,13
+Janesville,Wisconsin,WI,6,18
+Aliso Viejo,California,CA,0,125
+Santa Clarita,California,CA,8,48
+Palatine,Illinois,IL,1,142
+Bremen township,Illinois,IL,5,107
+Lawrence,Kansas,KS,6,109
+Long Beach,California,CA,6,75
+Elyria,Ohio,OH,9,57
+Flower Mound town,Texas,TX,4,40
+Mesquite,Texas,TX,7,42
+Richmond,Virginia,VA,5,24
+Clovis,California,CA,5,29
+Redondo Beach,California,CA,7,38
+Anderson township,Indiana,IN,5,110
+Erie,Pennsylvania,PA,4,128
+Bellingham,Washington,WA,4,100
+Burien,Washington,WA,9,124
+New Haven town,Connecticut,CT,9,111
+Lake Charles,Louisiana,LA,7,57
+Haverhill,Massachusetts,MA,9,94
+Hempstead town,New York,NY,0,114
+Colerain township,Ohio,OH,7,47
+Moore,Oklahoma,OK,5,51
+Beaverton,Oregon,OR,2,90
+Philadelphia,Pennsylvania,PA,5,92
+Chesapeake,Virginia,VA,4,108
+Hanford,California,CA,9,113
+Highland,California,CA,1,143
+Yucaipa,California,CA,7,16
+St. Cloud,Minnesota,MN,8,50
+St. Paul,Minnesota,MN,9,71
+St. Peters,Missouri,MO,1,96
+Mount Vernon,New York,NY,8,63
+Chico,California,CA,3,84
+National City,California,CA,3,84
+Worth township,Illinois,IL,5,68
+Santa Barbara,California,CA,9,148
+Plantation,Florida,FL,2,123
+Warren township,Illinois,IL,4,73
+Hammond,Indiana,IN,8,144
+Canton charter township,Michigan,MI,4,110
+Laredo,Texas,TX,9,33
+La Mesa,California,CA,3,46
+Visalia,California,CA,0,62
+Memphis,Tennessee,TN,7,43
+Palatine township,Illinois,IL,4,110
+Harrison township,Indiana,IN,4,91
+Provo,Utah,UT,8,108
+Taylorsville,Utah,UT,9,83
+Chino Hills,California,CA,5,57
+Tulsa,Oklahoma,OK,1,81
+St. George,Utah,UT,8,72
+Milford town,Connecticut,CT,3,78
+Kansas City,Missouri,MO,0,33
+Albuquerque,New Mexico,NM,1,146
+West Allis,Wisconsin,WI,8,149
+Fountain Valley,California,CA,2,108
+Farmington Hills,Michigan,MI,0,55
+Blaine,Minnesota,MN,6,111
+Columbia,South Carolina,SC,4,25
+Garland,Texas,TX,8,118
+Mansfield,Texas,TX,4,16
+New Braunfels,Texas,TX,5,26
+Downey,California,CA,9,39
+Kokomo,Indiana,IN,4,68
+Las Cruces,New Mexico,NM,4,33
+Nashville-Davidson metropolitan government,Tennessee,TN,7,94
+El Cajon,California,CA,2,117
+Deerfield Beach,Florida,FL,4,112
+Hendersonville,Tennessee,TN,9,133
+San Antonio,Texas,TX,3,21
+West Covina,California,CA,5,85
+Cape Coral,Florida,FL,0,57
+Tustin,California,CA,6,110
+North Miami,Florida,FL,5,65
+Chicago,Illinois,IL,4,68
+Proviso township,Illinois,IL,4,98
+Terre Haute,Indiana,IN,9,85
+Clifton,New Jersey,NJ,0,131
+Abington township,Pennsylvania,PA,7,100
+Glendora,California,CA,3,149
+Menifee,California,CA,4,146
+San Mateo,California,CA,9,107
+Union City,California,CA,7,19
+Boise City,Idaho,ID,9,135
+Plano,Texas,TX,3,77
+Tulare,California,CA,7,75
+Wilmington,Delaware,DE,5,17
+Hoffman Estates,Illinois,IL,0,140
+Skokie,Illinois,IL,3,100
+Blue Springs,Missouri,MO,1,132
+Parsippany-Troy Hills township,New Jersey,NJ,4,96
+Edina,Minnesota,MN,7,124
+Missoula,Montana,MT,3,15
+Toms River township,New Jersey,NJ,2,143
+Piscataway township,New Jersey,NJ,6,140
+Redding,California,CA,5,60
+Smyrna,Georgia,GA,8,92
+Minneapolis,Minnesota,MN,8,36
+Mobile,Alabama,AL,9,64
+Fresno,California,CA,3,98
+Parker town,Colorado,CO,9,55
+Leyden township,Illinois,IL,0,107
+La Crosse,Wisconsin,WI,7,128
+Lorain,Ohio,OH,0,141
+Kingsport,Tennessee,TN,9,57
+Louisville/Jefferson County metro government,Kentucky,KY,8,13
+Weymouth Town,Massachusetts,MA,3,52
+Springdale,Arkansas,AR,3,22
+Costa Mesa,California,CA,8,149
+Homestead,Florida,FL,5,123
+Elgin township,Illinois,IL,9,112
+Elkhart,Indiana,IN,3,134
+Dearborn Heights,Michigan,MI,9,137
+Carrollton,Texas,TX,7,32
+Edinburg,Texas,TX,7,30
+Mesa,Arizona,AZ,9,33
+Alameda,California,CA,8,115
+Huntington Beach,California,CA,7,32
+Cheektowaga town,New York,NY,6,88
+Temple,Texas,TX,2,110
+Lake Havasu City,Arizona,AZ,2,131
+Clearwater,Florida,FL,9,73
+Greenville,South Carolina,SC,3,118
+Smyrna town,Tennessee,TN,1,106
+Inglewood,California,CA,5,61
+Berwyn,Illinois,IL,6,122
+Burnsville,Minnesota,MN,6,118
+Pearland,Texas,TX,5,92
+Petaluma,California,CA,2,55
+San Leandro,California,CA,9,64
+Yuba City,California,CA,3,49
+Broomfield,Colorado,CO,2,122
+Henderson,Nevada,NV,5,123
+Charlotte,North Carolina,NC,2,43
+Athens-Clarke County unified government,Georgia,GA,2,14
+Rich township,Illinois,IL,6,67
+Dundee township,Illinois,IL,3,81
+Ankeny,Iowa,IA,9,56
+Raleigh,North Carolina,NC,0,24
+Lower Merion township,Pennsylvania,PA,6,22
+Olympia,Washington,WA,3,54
+Flagstaff,Arizona,AZ,3,30
+Miami Gardens,Florida,FL,9,94
+Stamford town,Connecticut,CT,8,84
+Boynton Beach,Florida,FL,5,53
+Cheyenne,Wyoming,WY,5,66
+Diamond Bar,California,CA,7,67
+Sunnyvale,California,CA,5,124
+Hollywood,Florida,FL,2,115
+Kissimmee,Florida,FL,7,139
+Joliet township,Illinois,IL,0,35
+Ramapo town,New York,NY,8,79
+Dayton,Ohio,OH,5,116
+Daytona Beach,Florida,FL,5,72
+Naperville,Illinois,IL,8,116
+Waltham,Massachusetts,MA,8,25
+Billings,Montana,MT,6,17
+Riverside,California,CA,2,29
+Miramar,Florida,FL,0,84
+Columbia,Missouri,MO,5,21
+Parma,Ohio,OH,0,64
+Franklin,Tennessee,TN,7,131
+Amarillo,Texas,TX,7,123
+Plainfield township,Illinois,IL,3,111
+Center township,Indiana,IN,4,108
+Council Bluffs,Iowa,IA,6,66
+Albany,Oregon,OR,0,86
+Bartlett,Tennessee,TN,4,105
+Castle Rock town,Colorado,CO,6,128
+Bridgeport,Connecticut,CT,4,106
+Tampa,Florida,FL,4,129
+Mount Prospect,Illinois,IL,1,81
+Waukegan township,Illinois,IL,4,134
+Cherry Hill township,New Jersey,NJ,6,76
+Fort Worth,Texas,TX,1,97
+Waukesha,Wisconsin,WI,3,96
+La Habra,California,CA,5,85
+Rancho Cordova,California,CA,1,134
+Meriden,Connecticut,CT,6,66
+Norwalk town,Connecticut,CT,9,139
+Des Moines,Iowa,IA,1,55
+Cicero town,Illinois,IL,1,22
+Elgin,Illinois,IL,1,84
+Milton township,Illinois,IL,6,29
+West Lafayette,Indiana,IN,9,106
+Oyster Bay town,New York,NY,5,101
+Peoria,Arizona,AZ,6,123
+Lake Elsinore,California,CA,0,141
+Palo Alto,California,CA,6,59
+Denver,Colorado,CO,7,85
+Bloomington,Illinois,IL,0,122
+Racine,Wisconsin,WI,1,62
+Chino,California,CA,3,52
+Grand Junction,Colorado,CO,3,51
+Oak Park,Illinois,IL,9,100
+Murfreesboro,Tennessee,TN,9,46
+Bryan,Texas,TX,5,39
+Suffolk,Virginia,VA,4,24
+Oxnard,California,CA,3,149
+Stonecrest,Georgia,GA,0,57
+Centennial,Colorado,CO,9,111
+Lee's Summit,Missouri,MO,4,103
+Syracuse,New York,NY,7,15
+Anaheim,California,CA,4,60
+Carson,California,CA,4,79
+Fort Collins,Colorado,CO,6,65
+Aurora township,Illinois,IL,0,89
+Merced,California,CA,7,143
+Pasadena,California,CA,6,63
+Aurora,Colorado,CO,7,84
+Rockford township,Illinois,IL,8,66
+Portland,Maine,ME,5,48
+Taunton,Massachusetts,MA,4,50
+Lisle township,Illinois,IL,4,126
+Edison township,New Jersey,NJ,8,134
+Akron,Ohio,OH,4,68
+Layton,Utah,UT,1,63
+Commerce City,Colorado,CO,7,78
+Greeley,Colorado,CO,8,70
+Grand Rapids,Michigan,MI,3,103
+Midwest City,Oklahoma,OK,1,82
+Midland,Texas,TX,6,113
+Vista,California,CA,9,118
+West Haven town,Connecticut,CT,9,113
+Warner Robins,Georgia,GA,6,55
+Rockford,Illinois,IL,6,130
+Waukegan,Illinois,IL,4,142
+Malden,Massachusetts,MA,3,132
+Trenton,New Jersey,NJ,7,84
+Canton,Ohio,OH,6,35
+Knoxville,Tennessee,TN,6,46
+Kirkland,Washington,WA,9,146
+Fremont,California,CA,0,43
+DeSoto,Texas,TX,1,86
+Cathedral City,California,CA,9,130
+Monterey Park,California,CA,6,11
+Columbus,Georgia,GA,1,34
+Nampa,Idaho,ID,3,121
+Lowell,Massachusetts,MA,5,105
+Reno,Nevada,NV,6,98
+Placentia,California,CA,8,62
+Thousand Oaks,California,CA,3,121
+West Haven,Connecticut,CT,5,76
+Waco,Texas,TX,8,109
+Palm Coast,Florida,FL,1,111
+New Trier township,Illinois,IL,3,42
+Bossier City,Louisiana,LA,9,121
+Waterford charter township,Michigan,MI,6,71
+McAllen,Texas,TX,5,133
+Norfolk,Virginia,VA,5,58
+Jurupa Valley,California,CA,2,27
+Stamford,Connecticut,CT,9,97
+Danbury town,Connecticut,CT,7,142
+Chattanooga,Tennessee,TN,5,62
+Camarillo,California,CA,8,33
+Eastvale,California,CA,4,131
+San Bernardino,California,CA,5,78
+West Sacramento,California,CA,6,133
+Worcester,Massachusetts,MA,2,129
+Wheaton,Illinois,IL,2,14
+Eagan,Minnesota,MN,9,64
+Woodbridge township,New Jersey,NJ,8,75
+Wilmington,North Carolina,NC,8,64
+College Station,Texas,TX,2,12
+Marysville,Washington,WA,2,26
+Meriden town,Connecticut,CT,3,84
+Pleasant township,Indiana,IN,6,81
+Shreveport,Louisiana,LA,4,13
+Plymouth town,Massachusetts,MA,8,54
+Rogers,Arkansas,AR,8,111
+Davie town,Florida,FL,0,79
+Edmond,Oklahoma,OK,2,133
+Little Elm,Texas,TX,1,105
+Ogden,Utah,UT,7,111
+Idaho Falls,Idaho,ID,1,79
+Noblesville township,Indiana,IN,9,73
+Hoboken,New Jersey,NJ,2,22
+Lakewood,Colorado,CO,6,131
+Kenner,Louisiana,LA,2,44
+New Orleans,Louisiana,LA,2,118
+Beavercreek township,Ohio,OH,5,72
+Salem,Oregon,OR,4,45
+San Ramon,California,CA,3,59
+Dubuque,Iowa,IA,2,142
+Norwalk,Connecticut,CT,5,144
+Cedar Park,Texas,TX,6,148
+Corpus Christi,Texas,TX,2,109
+Sammamish,Washington,WA,3,96
+Delano,California,CA,0,26
+Muncie,Indiana,IN,1,25
+Dearborn,Michigan,MI,9,10
+Apex town,North Carolina,NC,6,104
+Columbus,Ohio,OH,1,43
+Springfield,Ohio,OH,7,141
+Norman,Oklahoma,OK,8,27
+Logan,Utah,UT,9,31
+Pittsburg,California,CA,6,47
+Islip town,New York,NY,8,49
+Kettering,Ohio,OH,4,20
+Harlingen,Texas,TX,8,96
+Madison,Alabama,AL,4,35
+Stockton,California,CA,3,123
+Queen Creek town,Arizona,AZ,1,80
+Tempe,Arizona,AZ,2,46
+Rialto,California,CA,8,29
+Beaumont,Texas,TX,6,123
+South Gate,California,CA,7,55
+Flint,Michigan,MI,5,97
+Bloomington,Minnesota,MN,9,15
+Rochester,New York,NY,4,101
+Rowlett,Texas,TX,9,126
+Spokane Valley,Washington,WA,2,51
+Fontana,California,CA,8,74
+Caldwell,Idaho,ID,3,110
+Noblesville,Indiana,IN,3,136
+White Plains,New York,NY,0,146
+Hamilton,Ohio,OH,5,94
+Pittsburgh,Pennsylvania,PA,6,16
+Garden Grove,California,CA,2,14
+Sacramento,California,CA,6,42
+Pensacola,Florida,FL,8,144
+St. John township,Indiana,IN,2,17
+Newark,New Jersey,NJ,2,134
+Hemet,California,CA,2,31
+Port Orange,Florida,FL,1,16
+Peoria,Illinois,IL,4,57
+St. Joseph township,Indiana,IN,5,64
+Newton,Massachusetts,MA,0,118
+Howell township,New Jersey,NJ,3,63
+Rapid City,South Dakota,SD,5,55
+Millcreek,Utah,UT,7,59
+Pleasanton,California,CA,5,91
+Margate,Florida,FL,9,126
+Gaithersburg,Maryland,MD,4,16
+Bellevue,Nebraska,NE,6,64
+San Angelo,Texas,TX,7,47
+Richland,Washington,WA,8,87
+Buena Park,California,CA,4,136
+Colorado Springs,Colorado,CO,7,149
+Thornton,Colorado,CO,5,149
+Lincoln,Nebraska,NE,5,127
+Summerville town,South Carolina,SC,5,27
+Calumet township,Indiana,IN,0,12
+Framingham,Massachusetts,MA,8,136
+Troy,Michigan,MI,2,64
+Warren,Michigan,MI,9,121
+Portsmouth,Virginia,VA,2,122
+Bakersfield,California,CA,0,26
+Simi Valley,California,CA,3,114
+Somerville,Massachusetts,MA,8,133
+Orem,Utah,UT,2,106
+Shoreline,Washington,WA,3,126
+Encinitas,California,CA,6,40
+Wabash township,Indiana,IN,5,18
+Revere,Massachusetts,MA,4,13
+Topeka,Kansas,KS,2,77
+Kenosha,Wisconsin,WI,6,49
+Victorville,California,CA,7,98
+Hartford,Connecticut,CT,4,142
+Aurora,Illinois,IL,2,10
+Orland Park,Illinois,IL,6,23
+Normal township,Illinois,IL,6,70
+Knight township,Indiana,IN,0,111
+St. Joseph,Missouri,MO,9,106
+St. Louis,Missouri,MO,8,97
+Santa Cruz,California,CA,0,75
+Upland,California,CA,1,79
+St. Petersburg,Florida,FL,0,68
+Urban Honolulu CDP,Hawaii,HI,7,46
+Minnetonka,Minnesota,MN,8,86
+Jackson,Mississippi,MS,2,53
+New York,New York,NY,6,63
+Arlington,Texas,TX,8,94
+Santee,California,CA,4,103
+Fort Myers,Florida,FL,5,148
+Baltimore,Maryland,MD,0,20
+Royal Oak,Michigan,MI,8,103
+Ypsilanti charter township,Michigan,MI,6,11
+Elizabeth,New Jersey,NJ,4,86
+Auburn,Alabama,AL,4,49
+Palm Desert,California,CA,5,136
+Lafayette,Indiana,IN,1,28
+Fall River,Massachusetts,MA,0,10
+Springfield,Missouri,MO,8,123
+Johnson City,Tennessee,TN,2,18
+El Paso,Texas,TX,4,105
+Birmingham,Alabama,AL,2,59
+Thornton township,Illinois,IL,3,149
+St. Charles township,Illinois,IL,0,129
+Greenwood,Indiana,IN,0,14
+West Des Moines,Iowa,IA,3,125
+Toledo,Ohio,OH,7,44
+Jackson,Tennessee,TN,3,108
+Richardson,Texas,TX,8,57
+Schaumburg,Illinois,IL,5,85
+Cranston,Rhode Island,RI,1,25
+Newport News,Virginia,VA,1,125
+Concord,California,CA,8,32
+Addison township,Illinois,IL,1,121
+Warren township,Indiana,IN,8,58
+Greenville,North Carolina,NC,7,139
+Pflugerville,Texas,TX,5,134
+Maine township,Illinois,IL,5,97
+York township,Illinois,IL,3,24
+Irvington township,New Jersey,NJ,8,73
+Irondequoit town,New York,NY,7,113
+Woodland,California,CA,2,147
+Waterbury,Connecticut,CT,3,11
+Pocatello,Idaho,ID,6,89
+Amherst town,New York,NY,3,99
+Greensboro,North Carolina,NC,5,43
+Rocky Mount,North Carolina,NC,7,128
+Miami township,Ohio,OH,4,25
+Palm Bay,Florida,FL,5,78
+Modesto,California,CA,3,22
+Hialeah,Florida,FL,1,36
+Tonawanda town,New York,NY,9,45
+North Little Rock,Arkansas,AR,8,109
+North Port,Florida,FL,0,84
+Decatur,Illinois,IL,3,141
+Overland Park,Kansas,KS,4,106
+Las Vegas,Nevada,NV,4,134
+North Bergen township,New Jersey,NJ,9,47
+Tyler,Texas,TX,0,120
+Valdosta,Georgia,GA,6,96
+Bloomingdale township,Illinois,IL,7,139
+Fishers,Indiana,IN,1,117
+Ann Arbor,Michigan,MI,1,77
+Coon Rapids,Minnesota,MN,9,147
+Brookhaven town,New York,NY,9,68
+Huntington town,New York,NY,9,117
+Huntsville,Alabama,AL,2,137
+Scottsdale,Arizona,AZ,5,24
+Apple Valley town,California,CA,2,125
+Macon-Bibb County,Georgia,GA,5,17
+Sandy Springs,Georgia,GA,8,135
+Cicero township,Illinois,IL,7,108
+Springfield,Massachusetts,MA,4,32
+Milwaukee,Wisconsin,WI,6,36
+Whittier,California,CA,9,74
+North township,Indiana,IN,5,107
+Moreno Valley,California,CA,0,122
+Oakland,California,CA,7,91
+Maple Grove,Minnesota,MN,4,86
+Appleton,Wisconsin,WI,4,124

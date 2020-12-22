@@ -1,0 +1,941 @@
+Novato,California,CA
+Delray Beach,Florida,FL
+Rockville,Maryland,MD
+Jersey City,New Jersey,NJ
+Old Bridge township,New Jersey,NJ
+Cary town,North Carolina,NC
+Bensalem township,Pennsylvania,PA
+Alhambra,California,CA
+Palm Beach Gardens,Florida,FL
+Sarasota,Florida,FL
+Gulfport,Mississippi,MS
+Cincinnati,Ohio,OH
+South Jordan,Utah,UT
+Montebello,California,CA
+Boca Raton,Florida,FL
+Fort Lauderdale,Florida,FL
+Iowa City,Iowa,IA
+Passaic,New Jersey,NJ
+League City,Texas,TX
+Bloomington City township,Illinois,IL
+Capital township,Illinois,IL
+Bowie,Maryland,MD
+Wichita Falls,Texas,TX
+Goodyear,Arizona,AZ
+Conway,Arkansas,AR
+Fairfield town,Connecticut,CT
+Coconut Creek,Florida,FL
+Concord township,Indiana,IN
+Greece town,New York,NY
+Bismarck,North Dakota,ND
+Brentwood,California,CA
+High Point,North Carolina,NC
+Eau Claire,Wisconsin,WI
+Bentonville,Arkansas,AR
+Lakeland,Florida,FL
+Wellington,Florida,FL
+Penn township,Indiana,IN
+Shawnee,Kansas,KS
+Peabody,Massachusetts,MA
+Lancaster,Pennsylvania,PA
+Gilbert town,Arizona,AZ
+Citrus Heights,California,CA
+Wheeling township,Illinois,IL
+Ames,Iowa,IA
+Babylon town,New York,NY
+Eugene,Oregon,OR
+Fort Smith,Arkansas,AR
+Alpharetta,Georgia,GA
+Oak Lawn,Illinois,IL
+Orland township,Illinois,IL
+Nashua,New Hampshire,NH
+Concord,North Carolina,NC
+Lehi,Utah,UT
+Salinas,California,CA
+Santa Ana,California,CA
+Manchester town,Connecticut,CT
+Omaha,Nebraska,NE
+East Orange,New Jersey,NJ
+North Richland Hills,Texas,TX
+Union town,New York,NY
+Pawtucket,Rhode Island,RI
+Folsom,California,CA
+Hamden town,Connecticut,CT
+Savannah,Georgia,GA
+Eden Prairie,Minnesota,MN
+New Brunswick,New Jersey,NJ
+Burlington,North Carolina,NC
+Stillwater,Oklahoma,OK
+Lynchburg,Virginia,VA
+Baldwin Park,California,CA
+Irvine,California,CA
+San Diego,California,CA
+Evanston,Illinois,IL
+Kentwood,Michigan,MI
+Gresham,Oregon,OR
+Collierville town,Tennessee,TN
+Herriman,Utah,UT
+Chandler,Arizona,AZ
+Anderson,Indiana,IN
+Watsonville,California,CA
+Westminster,Colorado,CO
+Pinellas Park,Florida,FL
+Naperville township,Illinois,IL
+St. Charles,Missouri,MO
+Paterson,New Jersey,NJ
+Newark,Ohio,OH
+Grapevine,Texas,TX
+McKinney,Texas,TX
+Elk Grove township,Illinois,IL
+Libertyville township,Illinois,IL
+Largo,Florida,FL
+Cedar Rapids,Iowa,IA
+Kansas City,Kansas,KS
+Taylor,Michigan,MI
+Plymouth,Minnesota,MN
+Perth Amboy,New Jersey,NJ
+Vineland,New Jersey,NJ
+West New York town,New Jersey,NJ
+New Rochelle,New York,NY
+Plain township,Ohio,OH
+Brownsville,Texas,TX
+Sandy,Utah,UT
+Pueblo,Colorado,CO
+New Britain,Connecticut,CT
+Jacksonville,Florida,FL
+Albany,Georgia,GA
+Tinley Park,Illinois,IL
+Middletown township,New Jersey,NJ
+Franklin township,New Jersey,NJ
+Mission,Texas,TX
+Renton,Washington,WA
+Ontario,California,CA
+Westminster,California,CA
+Hanover township,Illinois,IL
+Union City,New Jersey,NJ
+Hamburg town,New York,NY
+Harrisonburg,Virginia,VA
+Berkeley,California,CA
+Cambridge,Massachusetts,MA
+South Fulton,Georgia,GA
+Shelby charter township,Michigan,MI
+Fairfield,California,CA
+Weston,Florida,FL
+Davenport,Iowa,IA
+Southampton town,New York,NY
+Everett,Washington,WA
+Casper,Wyoming,WY
+Lexington-Fayette urban county,Kentucky,KY
+Davis,California,CA
+Santa Maria,California,CA
+Normal town,Illinois,IL
+Broken Arrow,Oklahoma,OK
+Clarksville,Tennessee,TN
+Doral,Florida,FL
+Pembroke Pines,Florida,FL
+Carmel,Indiana,IN
+Perry township,Indiana,IN
+New Bedford,Massachusetts,MA
+North Hempstead town,New York,NY
+West Chester township,Ohio,OH
+Lodi,California,CA
+Perris,California,CA
+Loveland,Colorado,CO
+Pompano Beach,Florida,FL
+Lyons township,Illinois,IL
+Corvallis,Oregon,OR
+Bristol township,Pennsylvania,PA
+Rock Hill,South Carolina,SC
+Du Page township,Illinois,IL
+Wichita,Kansas,KS
+Grand Forks,North Dakota,ND
+Oshkosh,Wisconsin,WI
+Bellflower,California,CA
+Redwood City,California,CA
+Yorba Linda,California,CA
+Oswego township,Illinois,IL
+Chicopee,Massachusetts,MA
+Lawrence,Massachusetts,MA
+Woodbury,Minnesota,MN
+Fayetteville,North Carolina,NC
+Cleveland,Ohio,OH
+Upper Darby township,Pennsylvania,PA
+Wayne township,Indiana,IN
+Tucson,Arizona,AZ
+El Monte,California,CA
+St. Clair Shores,Michigan,MI
+Grand Prairie,Texas,TX
+West Palm Beach,Florida,FL
+Fort Wayne,Indiana,IN
+Hamilton township,New Jersey,NJ
+Conroe,Texas,TX
+Dallas,Texas,TX
+Auburn,Washington,WA
+Indio,California,CA
+St. Cloud,Florida,FL
+Boston,Massachusetts,MA
+Clinton charter township,Michigan,MI
+Independence,Missouri,MO
+Stratford town,Connecticut,CT
+Bolingbrook,Illinois,IL
+Fall Creek township,Indiana,IN
+Fairfield township,Indiana,IN
+Miami,Florida,FL
+Virginia Beach,Virginia,VA
+Santa Rosa,California,CA
+Bristol,Connecticut,CT
+Brookhaven,Georgia,GA
+Oak Park township,Illinois,IL
+Lakeville,Minnesota,MN
+Pasadena,Texas,TX
+Burbank,California,CA
+Waterloo,Iowa,IA
+Allen,Texas,TX
+Missouri City,Texas,TX
+Roanoke,Virginia,VA
+Gardena,California,CA
+Lancaster,California,CA
+Bristol town,Connecticut,CT
+Frederick,Maryland,MD
+Youngstown,Ohio,OH
+Charleston,South Carolina,SC
+Elk Grove,California,CA
+Palmdale,California,CA
+Bonita Springs,Florida,FL
+Johns Creek,Georgia,GA
+Augusta-Richmond County consolidated government,Georgia,GA
+Vernon township,Illinois,IL
+Grafton township,Illinois,IL
+Kalamazoo,Michigan,MI
+Decatur,Alabama,AL
+Lynwood,California,CA
+Murrieta,California,CA
+San Clemente,California,CA
+San Marcos,California,CA
+Lacey,Washington,WA
+Colton,California,CA
+Sunrise,Florida,FL
+Yonkers,New York,NY
+Dothan,Alabama,AL
+Rocklin,California,CA
+Lockport township,Illinois,IL
+Mishawaka,Indiana,IN
+Great Falls,Montana,MT
+Greenburgh town,New York,NY
+Lubbock,Texas,TX
+Surprise,Arizona,AZ
+Carlsbad,California,CA
+Texas City,Texas,TX
+Redmond,Washington,WA
+Santa Clara,California,CA
+Rochester,Minnesota,MN
+Bend,Oregon,OR
+Abilene,Texas,TX
+Corona,California,CA
+Pomona,California,CA
+Champaign City township,Illinois,IL
+Niles township,Illinois,IL
+Gloucester township,New Jersey,NJ
+Portland,Oregon,OR
+Georgetown charter township,Michigan,MI
+Alexandria,Virginia,VA
+Pasco,Washington,WA
+Tacoma,Washington,WA
+Tracy,California,CA
+Greenwich town,Connecticut,CT
+Port St. Lucie,Florida,FL
+Leesburg town,Virginia,VA
+Denton,Texas,TX
+Kennewick,Washington,WA
+Temecula,California,CA
+Boulder,Colorado,CO
+Longmont,Colorado,CO
+Coral Springs,Florida,FL
+Buffalo,New York,NY
+Glendale,California,CA
+Milford,Connecticut,CT
+Franklin township,Indiana,IN
+Methuen Town,Massachusetts,MA
+Vallejo,California,CA
+Hartford town,Connecticut,CT
+Utica,New York,NY
+Clarkstown town,New York,NY
+Hillsboro,Oregon,OR
+Salt Lake City,Utah,UT
+Avondale,Arizona,AZ
+Glendale,Arizona,AZ
+Hesperia,California,CA
+Mountain View,California,CA
+Rosemead,California,CA
+Jupiter town,Florida,FL
+Marietta,Georgia,GA
+Wheatland township,Illinois,IL
+Union township,New Jersey,NJ
+Lawton,Oklahoma,OK
+Tigard,Oregon,OR
+Allentown,Pennsylvania,PA
+Pharr,Texas,TX
+Buckeye,Arizona,AZ
+Antioch,California,CA
+Lenexa,Kansas,KS
+Jacksonville,North Carolina,NC
+Seattle,Washington,WA
+Yuma,Arizona,AZ
+Norwalk,California,CA
+Paramount,California,CA
+Lewisville,Texas,TX
+Round Rock,Texas,TX
+Melbourne,Florida,FL
+Olathe,Kansas,KS
+Gastonia,North Carolina,NC
+Wylie,Texas,TX
+Downers Grove township,Illinois,IL
+Albany,New York,NY
+South San Francisco,California,CA
+Walnut Creek,California,CA
+Gainesville,Florida,FL
+Jeffersonville township,Indiana,IN
+Owensboro,Kentucky,KY
+Houston,Texas,TX
+Daly City,California,CA
+Manteca,California,CA
+Bowling Green,Kentucky,KY
+Plainfield,New Jersey,NJ
+Avon township,Illinois,IL
+Danbury,Connecticut,CT
+New Britain town,Connecticut,CT
+Palos township,Illinois,IL
+Brooklyn Park,Minnesota,MN
+Carson City,Nevada,NV
+Millcreek township,Pennsylvania,PA
+Victoria,Texas,TX
+Hampton,Virginia,VA
+Livermore,California,CA
+Sioux City,Iowa,IA
+Winston-Salem,North Carolina,NC
+Scranton,Pennsylvania,PA
+Spokane,Washington,WA
+Indianapolis,Indiana,IN
+Pontiac,Michigan,MI
+Southfield,Michigan,MI
+Clay town,New York,NY
+Galveston,Texas,TX
+Killeen,Texas,TX
+Leander,Texas,TX
+Porterville,California,CA
+Rancho Cucamonga,California,CA
+Deltona,Florida,FL
+Pike township,Indiana,IN
+Lafayette,Louisiana,LA
+Bellevue,Washington,WA
+Green Bay,Wisconsin,WI
+West Bloomfield charter township,Michigan,MI
+Kent,Washington,WA
+Maricopa,Arizona,AZ
+Huntington Park,California,CA
+Turlock,California,CA
+Springfield,Illinois,IL
+Chapel Hill town,North Carolina,NC
+Federal Way,Washington,WA
+Cupertino,California,CA
+Lake Forest,California,CA
+San Rafael,California,CA
+Bradenton,Florida,FL
+Manhattan,Kansas,KS
+Brookline town,Massachusetts,MA
+Novi,Michigan,MI
+Westland,Michigan,MI
+Longview,Texas,TX
+Waterbury town,Connecticut,CT
+Tallahassee,Florida,FL
+New Albany township,Indiana,IN
+Durham,North Carolina,NC
+Milpitas,California,CA
+Napa,California,CA
+Coeur d'Alene,Idaho,ID
+Washington township,Indiana,IN
+Beaumont,California,CA
+West Hartford town,Connecticut,CT
+San Marcos,Texas,TX
+Tuscaloosa,Alabama,AL
+Jonesboro,Arkansas,AR
+Washington,District of Columbia,DC
+Bloom township,Illinois,IL
+Gary,Indiana,IN
+Vacaville,California,CA
+Wayne township,Illinois,IL
+Jackson township,New Jersey,NJ
+Joplin,Missouri,MO
+Sterling Heights,Michigan,MI
+Euless,Texas,TX
+Lakewood,California,CA
+Newport Beach,California,CA
+Medford,Massachusetts,MA
+Rio Rancho,New Mexico,NM
+Colonie town,New York,NY
+West Valley City,Utah,UT
+Compton,California,CA
+Schaumburg township,Illinois,IL
+Duluth,Minnesota,MN
+Escondido,California,CA
+Miami Beach,Florida,FL
+Camden,New Jersey,NJ
+Oceanside,California,CA
+Roswell,Georgia,GA
+Fargo,North Dakota,ND
+Chula Vista,California,CA
+Champaign,Illinois,IL
+Des Plaines,Illinois,IL
+Evansville,Indiana,IN
+Bayonne,New Jersey,NJ
+Hawthorne,California,CA
+Hayward,California,CA
+Grand Island,Nebraska,NE
+Manchester,New Hampshire,NH
+Hempstead,New York,NY
+Reading,Pennsylvania,PA
+Arvada,Colorado,CO
+Asheville,North Carolina,NC
+Lauderhill,Florida,FL
+Ocala,Florida,FL
+Berwyn township,Illinois,IL
+Macomb township,Michigan,MI
+Smithtown town,New York,NY
+West Jordan,Utah,UT
+Yakima,Washington,WA
+Apopka,Florida,FL
+Quincy,Massachusetts,MA
+O'Fallon,Missouri,MO
+Lakewood township,New Jersey,NJ
+Schenectady,New York,NY
+Huntersville town,North Carolina,NC
+Georgetown,Texas,TX
+Fullerton,California,CA
+Laguna Niguel,California,CA
+Frankfort township,Illinois,IL
+Brockton,Massachusetts,MA
+North Las Vegas,Nevada,NV
+Montgomery,Alabama,AL
+Dublin,California,CA
+Richmond,California,CA
+Livonia,Michigan,MI
+Santa Fe,New Mexico,NM
+Kannapolis,North Carolina,NC
+Providence,Rhode Island,RI
+Warwick,Rhode Island,RI
+Port Arthur,Texas,TX
+Arcadia,California,CA
+Mission Viejo,California,CA
+Pico Rivera,California,CA
+Apple Valley,Minnesota,MN
+Phoenix,Arizona,AZ
+Medford,Oregon,OR
+San Francisco,California,CA
+Baton Rouge,Louisiana,LA
+Orange,California,CA
+San Buenaventura (Ventura),California,CA
+Clay township,Indiana,IN
+Lansing,Michigan,MI
+Austin,Texas,TX
+Madison,Wisconsin,WI
+Gilroy,California,CA
+Sanford,Florida,FL
+Roseville,California,CA
+Battle Creek,Michigan,MI
+Detroit,Michigan,MI
+Wayne township,New Jersey,NJ
+Santa Monica,California,CA
+Sioux Falls,South Dakota,SD
+Tamarac,Florida,FL
+Baytown,Texas,TX
+Irving,Texas,TX
+Odessa,Texas,TX
+Casa Grande,Arizona,AZ
+Los Angeles,California,CA
+New Haven,Connecticut,CT
+Bridgeport town,Connecticut,CT
+Arlington Heights,Illinois,IL
+Anchorage municipality,Alaska,AK
+Fayetteville,Arkansas,AR
+Madera,California,CA
+Atlanta,Georgia,GA
+Lawrence township,Indiana,IN
+Lynn,Massachusetts,MA
+Wyoming,Michigan,MI
+Lakewood,Washington,WA
+San Jose,California,CA
+Orlando,Florida,FL
+Algonquin township,Illinois,IL
+Portage township,Indiana,IN
+Sparks,Nevada,NV
+North Charleston,South Carolina,SC
+Hoover,Alabama,AL
+Redlands,California,CA
+Southaven,Mississippi,MS
+Florissant,Missouri,MO
+Washington township,Ohio,OH
+Oklahoma City,Oklahoma,OK
+Little Rock,Arkansas,AR
+Joliet,Illinois,IL
+South Bend,Indiana,IN
+Rochester Hills,Michigan,MI
+Frisco,Texas,TX
+Sugar Land,Texas,TX
+Vancouver,Washington,WA
+Green township,Ohio,OH
+Bethlehem,Pennsylvania,PA
+Northfield township,Illinois,IL
+Peoria City township,Illinois,IL
+Bloomington,Indiana,IN
+Brick township,New Jersey,NJ
+Mount Pleasant town,South Carolina,SC
+Torrance,California,CA
+Meridian,Idaho,ID
+Twin Falls,Idaho,ID
+Springfield,Oregon,OR
+Janesville,Wisconsin,WI
+Aliso Viejo,California,CA
+Santa Clarita,California,CA
+Palatine,Illinois,IL
+Bremen township,Illinois,IL
+Lawrence,Kansas,KS
+Long Beach,California,CA
+Elyria,Ohio,OH
+Flower Mound town,Texas,TX
+Mesquite,Texas,TX
+Richmond,Virginia,VA
+Clovis,California,CA
+Redondo Beach,California,CA
+Anderson township,Indiana,IN
+Erie,Pennsylvania,PA
+Bellingham,Washington,WA
+Burien,Washington,WA
+New Haven town,Connecticut,CT
+Lake Charles,Louisiana,LA
+Haverhill,Massachusetts,MA
+Hempstead town,New York,NY
+Colerain township,Ohio,OH
+Moore,Oklahoma,OK
+Beaverton,Oregon,OR
+Philadelphia,Pennsylvania,PA
+Chesapeake,Virginia,VA
+Hanford,California,CA
+Highland,California,CA
+Yucaipa,California,CA
+St. Cloud,Minnesota,MN
+St. Paul,Minnesota,MN
+St. Peters,Missouri,MO
+Mount Vernon,New York,NY
+Chico,California,CA
+National City,California,CA
+Worth township,Illinois,IL
+Santa Barbara,California,CA
+Plantation,Florida,FL
+Warren township,Illinois,IL
+Hammond,Indiana,IN
+Canton charter township,Michigan,MI
+Laredo,Texas,TX
+La Mesa,California,CA
+Visalia,California,CA
+Memphis,Tennessee,TN
+Palatine township,Illinois,IL
+Harrison township,Indiana,IN
+Provo,Utah,UT
+Taylorsville,Utah,UT
+Chino Hills,California,CA
+Tulsa,Oklahoma,OK
+St. George,Utah,UT
+Milford town,Connecticut,CT
+Kansas City,Missouri,MO
+Albuquerque,New Mexico,NM
+West Allis,Wisconsin,WI
+Fountain Valley,California,CA
+Farmington Hills,Michigan,MI
+Blaine,Minnesota,MN
+Columbia,South Carolina,SC
+Garland,Texas,TX
+Mansfield,Texas,TX
+New Braunfels,Texas,TX
+Downey,California,CA
+Kokomo,Indiana,IN
+Las Cruces,New Mexico,NM
+Nashville-Davidson metropolitan government,Tennessee,TN
+El Cajon,California,CA
+Deerfield Beach,Florida,FL
+Hendersonville,Tennessee,TN
+San Antonio,Texas,TX
+West Covina,California,CA
+Cape Coral,Florida,FL
+Tustin,California,CA
+North Miami,Florida,FL
+Chicago,Illinois,IL
+Proviso township,Illinois,IL
+Terre Haute,Indiana,IN
+Clifton,New Jersey,NJ
+Abington township,Pennsylvania,PA
+Glendora,California,CA
+Menifee,California,CA
+San Mateo,California,CA
+Union City,California,CA
+Boise City,Idaho,ID
+Plano,Texas,TX
+Tulare,California,CA
+Wilmington,Delaware,DE
+Hoffman Estates,Illinois,IL
+Skokie,Illinois,IL
+Blue Springs,Missouri,MO
+Parsippany-Troy Hills township,New Jersey,NJ
+Edina,Minnesota,MN
+Missoula,Montana,MT
+Toms River township,New Jersey,NJ
+Piscataway township,New Jersey,NJ
+Redding,California,CA
+Smyrna,Georgia,GA
+Minneapolis,Minnesota,MN
+Mobile,Alabama,AL
+Fresno,California,CA
+Parker town,Colorado,CO
+Leyden township,Illinois,IL
+La Crosse,Wisconsin,WI
+Lorain,Ohio,OH
+Kingsport,Tennessee,TN
+Louisville/Jefferson County metro government,Kentucky,KY
+Weymouth Town,Massachusetts,MA
+Springdale,Arkansas,AR
+Costa Mesa,California,CA
+Homestead,Florida,FL
+Elgin township,Illinois,IL
+Elkhart,Indiana,IN
+Dearborn Heights,Michigan,MI
+Carrollton,Texas,TX
+Edinburg,Texas,TX
+Mesa,Arizona,AZ
+Alameda,California,CA
+Huntington Beach,California,CA
+Cheektowaga town,New York,NY
+Temple,Texas,TX
+Lake Havasu City,Arizona,AZ
+Clearwater,Florida,FL
+Greenville,South Carolina,SC
+Smyrna town,Tennessee,TN
+Inglewood,California,CA
+Berwyn,Illinois,IL
+Burnsville,Minnesota,MN
+Pearland,Texas,TX
+Petaluma,California,CA
+San Leandro,California,CA
+Yuba City,California,CA
+Broomfield,Colorado,CO
+Henderson,Nevada,NV
+Charlotte,North Carolina,NC
+Athens-Clarke County unified government,Georgia,GA
+Rich township,Illinois,IL
+Dundee township,Illinois,IL
+Ankeny,Iowa,IA
+Raleigh,North Carolina,NC
+Lower Merion township,Pennsylvania,PA
+Olympia,Washington,WA
+Flagstaff,Arizona,AZ
+Miami Gardens,Florida,FL
+Stamford town,Connecticut,CT
+Boynton Beach,Florida,FL
+Cheyenne,Wyoming,WY
+Diamond Bar,California,CA
+Sunnyvale,California,CA
+Hollywood,Florida,FL
+Kissimmee,Florida,FL
+Joliet township,Illinois,IL
+Ramapo town,New York,NY
+Dayton,Ohio,OH
+Daytona Beach,Florida,FL
+Naperville,Illinois,IL
+Waltham,Massachusetts,MA
+Billings,Montana,MT
+Riverside,California,CA
+Miramar,Florida,FL
+Columbia,Missouri,MO
+Parma,Ohio,OH
+Franklin,Tennessee,TN
+Amarillo,Texas,TX
+Plainfield township,Illinois,IL
+Center township,Indiana,IN
+Council Bluffs,Iowa,IA
+Albany,Oregon,OR
+Bartlett,Tennessee,TN
+Castle Rock town,Colorado,CO
+Bridgeport,Connecticut,CT
+Tampa,Florida,FL
+Mount Prospect,Illinois,IL
+Waukegan township,Illinois,IL
+Cherry Hill township,New Jersey,NJ
+Fort Worth,Texas,TX
+Waukesha,Wisconsin,WI
+La Habra,California,CA
+Rancho Cordova,California,CA
+Meriden,Connecticut,CT
+Norwalk town,Connecticut,CT
+Des Moines,Iowa,IA
+Cicero town,Illinois,IL
+Elgin,Illinois,IL
+Milton township,Illinois,IL
+West Lafayette,Indiana,IN
+Oyster Bay town,New York,NY
+Peoria,Arizona,AZ
+Lake Elsinore,California,CA
+Palo Alto,California,CA
+Denver,Colorado,CO
+Bloomington,Illinois,IL
+Racine,Wisconsin,WI
+Chino,California,CA
+Grand Junction,Colorado,CO
+Oak Park,Illinois,IL
+Murfreesboro,Tennessee,TN
+Bryan,Texas,TX
+Suffolk,Virginia,VA
+Oxnard,California,CA
+Stonecrest,Georgia,GA
+Centennial,Colorado,CO
+Lee's Summit,Missouri,MO
+Syracuse,New York,NY
+Anaheim,California,CA
+Carson,California,CA
+Fort Collins,Colorado,CO
+Aurora township,Illinois,IL
+Merced,California,CA
+Pasadena,California,CA
+Aurora,Colorado,CO
+Rockford township,Illinois,IL
+Portland,Maine,ME
+Taunton,Massachusetts,MA
+Lisle township,Illinois,IL
+Edison township,New Jersey,NJ
+Akron,Ohio,OH
+Layton,Utah,UT
+Commerce City,Colorado,CO
+Greeley,Colorado,CO
+Grand Rapids,Michigan,MI
+Midwest City,Oklahoma,OK
+Midland,Texas,TX
+Vista,California,CA
+West Haven town,Connecticut,CT
+Warner Robins,Georgia,GA
+Rockford,Illinois,IL
+Waukegan,Illinois,IL
+Malden,Massachusetts,MA
+Trenton,New Jersey,NJ
+Canton,Ohio,OH
+Knoxville,Tennessee,TN
+Kirkland,Washington,WA
+Fremont,California,CA
+DeSoto,Texas,TX
+Cathedral City,California,CA
+Monterey Park,California,CA
+Columbus,Georgia,GA
+Nampa,Idaho,ID
+Lowell,Massachusetts,MA
+Reno,Nevada,NV
+Placentia,California,CA
+Thousand Oaks,California,CA
+West Haven,Connecticut,CT
+Waco,Texas,TX
+Palm Coast,Florida,FL
+New Trier township,Illinois,IL
+Bossier City,Louisiana,LA
+Waterford charter township,Michigan,MI
+McAllen,Texas,TX
+Norfolk,Virginia,VA
+Jurupa Valley,California,CA
+Stamford,Connecticut,CT
+Danbury town,Connecticut,CT
+Chattanooga,Tennessee,TN
+Camarillo,California,CA
+Eastvale,California,CA
+San Bernardino,California,CA
+West Sacramento,California,CA
+Worcester,Massachusetts,MA
+Wheaton,Illinois,IL
+Eagan,Minnesota,MN
+Woodbridge township,New Jersey,NJ
+Wilmington,North Carolina,NC
+College Station,Texas,TX
+Marysville,Washington,WA
+Meriden town,Connecticut,CT
+Pleasant township,Indiana,IN
+Shreveport,Louisiana,LA
+Plymouth town,Massachusetts,MA
+Rogers,Arkansas,AR
+Davie town,Florida,FL
+Edmond,Oklahoma,OK
+Little Elm,Texas,TX
+Ogden,Utah,UT
+Idaho Falls,Idaho,ID
+Noblesville township,Indiana,IN
+Hoboken,New Jersey,NJ
+Lakewood,Colorado,CO
+Kenner,Louisiana,LA
+New Orleans,Louisiana,LA
+Beavercreek township,Ohio,OH
+Salem,Oregon,OR
+San Ramon,California,CA
+Dubuque,Iowa,IA
+Norwalk,Connecticut,CT
+Cedar Park,Texas,TX
+Corpus Christi,Texas,TX
+Sammamish,Washington,WA
+Delano,California,CA
+Muncie,Indiana,IN
+Dearborn,Michigan,MI
+Apex town,North Carolina,NC
+Columbus,Ohio,OH
+Springfield,Ohio,OH
+Norman,Oklahoma,OK
+Logan,Utah,UT
+Pittsburg,California,CA
+Islip town,New York,NY
+Kettering,Ohio,OH
+Harlingen,Texas,TX
+Madison,Alabama,AL
+Stockton,California,CA
+Queen Creek town,Arizona,AZ
+Tempe,Arizona,AZ
+Rialto,California,CA
+Beaumont,Texas,TX
+South Gate,California,CA
+Flint,Michigan,MI
+Bloomington,Minnesota,MN
+Rochester,New York,NY
+Rowlett,Texas,TX
+Spokane Valley,Washington,WA
+Fontana,California,CA
+Caldwell,Idaho,ID
+Noblesville,Indiana,IN
+White Plains,New York,NY
+Hamilton,Ohio,OH
+Pittsburgh,Pennsylvania,PA
+Garden Grove,California,CA
+Sacramento,California,CA
+Pensacola,Florida,FL
+St. John township,Indiana,IN
+Newark,New Jersey,NJ
+Hemet,California,CA
+Port Orange,Florida,FL
+Peoria,Illinois,IL
+St. Joseph township,Indiana,IN
+Newton,Massachusetts,MA
+Howell township,New Jersey,NJ
+Rapid City,South Dakota,SD
+Millcreek,Utah,UT
+Pleasanton,California,CA
+Margate,Florida,FL
+Gaithersburg,Maryland,MD
+Bellevue,Nebraska,NE
+San Angelo,Texas,TX
+Richland,Washington,WA
+Buena Park,California,CA
+Colorado Springs,Colorado,CO
+Thornton,Colorado,CO
+Lincoln,Nebraska,NE
+Summerville town,South Carolina,SC
+Calumet township,Indiana,IN
+Framingham,Massachusetts,MA
+Troy,Michigan,MI
+Warren,Michigan,MI
+Portsmouth,Virginia,VA
+Bakersfield,California,CA
+Simi Valley,California,CA
+Somerville,Massachusetts,MA
+Orem,Utah,UT
+Shoreline,Washington,WA
+Encinitas,California,CA
+Wabash township,Indiana,IN
+Revere,Massachusetts,MA
+Topeka,Kansas,KS
+Kenosha,Wisconsin,WI
+Victorville,California,CA
+Hartford,Connecticut,CT
+Aurora,Illinois,IL
+Orland Park,Illinois,IL
+Normal township,Illinois,IL
+Knight township,Indiana,IN
+St. Joseph,Missouri,MO
+St. Louis,Missouri,MO
+Santa Cruz,California,CA
+Upland,California,CA
+St. Petersburg,Florida,FL
+Urban Honolulu CDP,Hawaii,HI
+Minnetonka,Minnesota,MN
+Jackson,Mississippi,MS
+New York,New York,NY
+Arlington,Texas,TX
+Santee,California,CA
+Fort Myers,Florida,FL
+Baltimore,Maryland,MD
+Royal Oak,Michigan,MI
+Ypsilanti charter township,Michigan,MI
+Elizabeth,New Jersey,NJ
+Auburn,Alabama,AL
+Palm Desert,California,CA
+Lafayette,Indiana,IN
+Fall River,Massachusetts,MA
+Springfield,Missouri,MO
+Johnson City,Tennessee,TN
+El Paso,Texas,TX
+Birmingham,Alabama,AL
+Thornton township,Illinois,IL
+St. Charles township,Illinois,IL
+Greenwood,Indiana,IN
+West Des Moines,Iowa,IA
+Toledo,Ohio,OH
+Jackson,Tennessee,TN
+Richardson,Texas,TX
+Schaumburg,Illinois,IL
+Cranston,Rhode Island,RI
+Newport News,Virginia,VA
+Concord,California,CA
+Addison township,Illinois,IL
+Warren township,Indiana,IN
+Greenville,North Carolina,NC
+Pflugerville,Texas,TX
+Maine township,Illinois,IL
+York township,Illinois,IL
+Irvington township,New Jersey,NJ
+Irondequoit town,New York,NY
+Woodland,California,CA
+Waterbury,Connecticut,CT
+Pocatello,Idaho,ID
+Amherst town,New York,NY
+Greensboro,North Carolina,NC
+Rocky Mount,North Carolina,NC
+Miami township,Ohio,OH
+Palm Bay,Florida,FL
+Modesto,California,CA
+Hialeah,Florida,FL
+Tonawanda town,New York,NY
+North Little Rock,Arkansas,AR
+North Port,Florida,FL
+Decatur,Illinois,IL
+Overland Park,Kansas,KS
+Las Vegas,Nevada,NV
+North Bergen township,New Jersey,NJ
+Tyler,Texas,TX
+Valdosta,Georgia,GA
+Bloomingdale township,Illinois,IL
+Fishers,Indiana,IN
+Ann Arbor,Michigan,MI
+Coon Rapids,Minnesota,MN
+Brookhaven town,New York,NY
+Huntington town,New York,NY
+Huntsville,Alabama,AL
+Scottsdale,Arizona,AZ
+Apple Valley town,California,CA
+Macon-Bibb County,Georgia,GA
+Sandy Springs,Georgia,GA
+Cicero township,Illinois,IL
+Springfield,Massachusetts,MA
+Milwaukee,Wisconsin,WI
+Whittier,California,CA
+North township,Indiana,IN
+Moreno Valley,California,CA
+Oakland,California,CA
+Maple Grove,Minnesota,MN
+Appleton,Wisconsin,WI
